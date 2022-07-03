@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ROM files
+*.gb
+
+# Pycharm
+.idea
